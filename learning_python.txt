@@ -1,0 +1,3 @@
+In Python you can clean, analyze, and create graphs to visualize data. 
+In Python the syntax is clear and easy to read.
+In Python you can model real-world situations. 
